@@ -1,6 +1,5 @@
-=============================
 Big Data Log Analyzer
-=============================
+
 
 * Purpose : collect web server logs-> analyzing-> dashboard visualization
 * (Skill Stack: Python, Scala, Spark
@@ -15,10 +14,10 @@ Big Data Log Analyzer
 6. Visualizing results(Superset/Grafana/ELK)
 
 * Environment Setup
-	install Spark
-	install and set up Scala + SBT
-	Hadoop, S3 or GCP Storage
-	Airflow
-	Superset or ELK
+- install Spark
+- install and set up Scala + SBT
+- Hadoop, S3 or GCP Storage
+- Airflow
+- Superset or ELK
 
 
